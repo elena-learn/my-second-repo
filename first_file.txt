@@ -1,2 +1,4 @@
 text1
 this line was added after staging the file
+
+a change that should be done in local_branch
