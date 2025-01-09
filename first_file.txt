@@ -1,4 +1,6 @@
-first file header
+FIRST File header
 this line was added after staging the file
 
 a change done in local_branch
+
+and some more changes
