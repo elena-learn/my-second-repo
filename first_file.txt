@@ -4,3 +4,4 @@ Line 3
 a change done in local_branch
 
 and some more changes
+line 7
