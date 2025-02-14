@@ -6,3 +6,4 @@ a change done in local_branch
 Line 5
 and some more changes
 line 7
+last line
