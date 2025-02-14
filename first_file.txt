@@ -3,7 +3,7 @@ this line was added after staging the file
 Line 3
 Line 4
 a change done in local_branch
-Line 5
+Line 6
 and some more changes
 line 7
 last line
