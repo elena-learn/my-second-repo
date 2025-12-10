@@ -7,4 +7,5 @@ Line 6
 line 7 with some more changes on line 7
 line 8
 changed feature
+feature2
 last line
